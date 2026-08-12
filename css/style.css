@@ -63,7 +63,7 @@ img{max-width:100%;display:block;}
 }
 .nav{
   display:flex;align-items:center;justify-content:space-between;
-  padding:16px 24px;max-width:var(--maxw);margin:0 auto;
+  padding:8px 24px;max-width:var(--maxw);margin:0 auto;
 }
 .logo{
   font-family:Georgia,serif;
